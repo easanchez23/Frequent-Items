@@ -9,7 +9,7 @@ python3 Exact.py threshold "filepath"
 
 For sampling.py
 
-python3 Sampling.py sampleSize DatasetSize failureProbability threshold "file/path"
+python3 Sampling.py sampleSize DatasetSize failureProbability threshold "filepath"
 
 
 Output should appear as follows (for Sampling.py):
